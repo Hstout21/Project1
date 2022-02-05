@@ -1,0 +1,231 @@
+Script started on 2022-02-04 21:21:43-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="261" LINES="44"]
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/Hw1[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/Hw1[00m$ ./a.out
+Please enter your user name (No spaces): hunter_ceh  hecks
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+4
+Check Number: 1
+Date: 9/5/2017
+Pay to: Dave's Carryout
+Amount: 18.49
+
+Check Number: 4
+Date: 1/1/1997
+Pay to: Hunter Stout
+Amount: 500.00
+
+Check Number: 3
+Date: 10/10/2020
+Pay to: Ohio University
+Amount: 1000.00
+
+Check Number: 5
+Date: 1/2/1997
+Pay to: Stout Hunter
+Amount: 999.99
+
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+1
+Please enter amount of the deposit: $10000
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+3
+Your account balance: $24197.40Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+2
+Enter the check date (MM/DD/YYYY):
+2 02/20/2023
+Enter the check pay to:
+:D
+Enter the check amount:
+6132.21
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+3
+Your account balance: $18065.19Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+6
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+4
+Check Number: 1
+Date: 9/5/2017
+Pay to: Dave's Carryout
+Amount: 18.49
+
+Check Number: 3
+Date: 10/10/2020
+Pay to: Ohio University
+Amount: 1000.00
+
+Check Number: 4
+Date: 1/1/1997
+Pay to: Hunter Stout
+Amount: 500.00
+
+Check Number: 5
+Date: 1/2/1997
+Pay to: Stout Hunter
+Amount: 999.99
+
+Check Number: 5
+Date: 2/20/2023
+Pay to: :D
+Amount: 6132.21
+
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+7
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+4
+Check Number: 5
+Date: 2/20/2023
+Pay to: :D
+Amount: 6132.21
+
+Check Number: 1
+Date: 9/5/2017
+Pay to: Dave's Carryout
+Amount: 18.49
+
+Check Number: 4
+Date: 1/1/1997
+Pay to: Hunter Stout
+Amount: 500.00
+
+Check Number: 3
+Date: 10/10/2020
+Pay to: Ohio University
+Amount: 1000.00
+
+Check Number: 5
+Date: 1/2/1997
+Pay to: Stout Hunter
+Amount: 999.99
+
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+9
+Stout Hunter
+You paid $0.00 to Stout Hunter
+Your Checkbook. Please choose from the following:
+ 1) Make a deposit.
+ 2) Write a check.
+ 3) See the checkbook balance.
+ 4) See a listing of all checks written.
+ 5) Remove a check which has been cancelled.
+ 6) Sort by Check Number.
+ 7) Sort Alphabetically by Payto.
+ 8) Sort by Date.
+ 9) Find all checks written to a certain payee.
+10) Find the average of all checks written.
+ 0) Quit.
+0
+Thank you for using the Checkbook program.
+All alterations to the checkbook will now be saved.
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/Hw1[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/Hw1[00m$ exit
+exit
+
+Script done on 2022-02-04 21:27:08-05:00 [COMMAND_EXIT_CODE="0"]
