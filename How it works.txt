@@ -1,0 +1,1 @@
+This was one of my favorite projects as its a working checkbook. You can compile it by just running all the cc files (g++ -Wall *.cc). You are able to create your own checkbook and manipulate the data. It even saves the checkbook and you can reload in your data on a different run.
